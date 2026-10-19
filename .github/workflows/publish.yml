@@ -1,0 +1,45 @@
+# Verifica que los JSON sean válidos y, solo entonces, los publica en GitHub Pages.
+name: Publicar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar que los JSON sean válidos
+        run: |
+          ruby -rjson -e '
+            Dir["**/*.json"].each { |f| JSON.parse(File.read(f)) }
+            v = JSON.parse(File.read("v1/version.json"))["version"]
+            c = JSON.parse(File.read("v1/cryptics.json"))["version"]
+            abort "version.json (#{v}) no coincide con cryptics.json (#{c})" unless v == c
+          '
+
+  publicar:
+    needs: verificar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
