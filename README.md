@@ -50,4 +50,4 @@ La API queda en `http://localhost:4567/v1/cryptics.json`. Conviene no usar el pu
 
 El workflow solo verifica que el JSON sea válido, no que los cripticos estén bien armados. Un críptico con errores se publica igual, y es el sistema de cada grupo el que debe detectarlo y rechazarlo al sincronizar, según las reglas del enunciado.
 
-Para sacar un críptico, no se borra: se pone `"activo": false`.
+Para sacar un críptico, se lo borra del catálogo. Su `id` no se vuelve a usar nunca, y es el sistema de cada grupo el que decide qué hacer con los cripticos que ya no vienen en el catálogo.

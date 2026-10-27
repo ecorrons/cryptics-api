@@ -1,11 +1,11 @@
 {
-  "version": "2026-10-19.1",
-  "generado": "2026-10-19",
+  "version": "2026-10-26.1",
+  "generado": "2026-10-26",
   "fuente": "TTPS Opcion Ruby",
   "cripticos": [
     {
       "id": "cr-001",
-      "pista": "La cama tejida esconde la infusión argentina",
+      "enunciado": "La cama tejida esconde la infusión argentina",
       "enumeracion": "(4)",
       "respuesta": "MATE",
       "definiciones": ["la infusión argentina"],
@@ -15,12 +15,11 @@
       "dificultad": "facil",
       "ayuda": "Leé de corrido el final de una palabra y el principio de la siguiente.",
       "explicacion": "ca[MA TE]jida esconde MATE.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-002",
-      "pista": "Pato rosado esconde un animal de las corridas",
+      "enunciado": "Pato rosado esconde un animal de las corridas",
       "enumeracion": "(4)",
       "respuesta": "TORO",
       "definiciones": ["un animal de las corridas"],
@@ -30,12 +29,11 @@
       "dificultad": "facil",
       "ayuda": "La respuesta está escrita, letra por letra, entre las dos primeras palabras.",
       "explicacion": "pa[TO RO]sado esconde TORO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-003",
-      "pista": "Amor loco da una fruta del bosque",
+      "enunciado": "Amor loco da una fruta del bosque",
       "enumeracion": "(4)",
       "respuesta": "MORA",
       "definiciones": ["una fruta del bosque"],
@@ -45,12 +43,11 @@
       "dificultad": "facil",
       "ayuda": "Reordená las letras de la primera palabra.",
       "explicacion": "AMOR desordenado (loco) da MORA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-004",
-      "pista": "Mate desordenado: el asunto",
+      "enunciado": "Mate desordenado: el asunto",
       "enumeracion": "(4)",
       "respuesta": "TEMA",
       "definiciones": ["el asunto"],
@@ -60,12 +57,11 @@
       "dificultad": "facil",
       "ayuda": "No es la infusión: son cuatro letras para reordenar.",
       "explicacion": "MATE desordenado da TEMA, que es el asunto de una charla.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-005",
-      "pista": "Rama de vuelta para querer",
+      "enunciado": "Rama de vuelta para querer",
       "enumeracion": "(4)",
       "respuesta": "AMAR",
       "definiciones": ["querer"],
@@ -75,12 +71,11 @@
       "dificultad": "facil",
       "ayuda": "Leé la primera palabra de atrás para adelante.",
       "explicacion": "RAMA al revés es AMAR.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-006",
-      "pista": "Tour con el astro rey da una flor",
+      "enunciado": "Tour con el astro rey da una flor",
       "enumeracion": "(7)",
       "respuesta": "GIRASOL",
       "definiciones": ["una flor"],
@@ -90,12 +85,11 @@
       "dificultad": "facil",
       "ayuda": "Un tour de una banda, seguido del astro que nos ilumina.",
       "explicacion": "GIRA (tour) + SOL (el astro rey) = GIRASOL.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-007",
-      "pista": "Lo que sale del horno y parte del pie forman una prenda",
+      "enunciado": "Lo que sale del horno y parte del pie forman una prenda",
       "enumeracion": "(8)",
       "respuesta": "PANTALÓN",
       "definiciones": ["una prenda"],
@@ -105,12 +99,11 @@
       "dificultad": "facil",
       "ayuda": "Algo de la panadería, más la parte de atrás del pie.",
       "explicacion": "PAN (sale del horno) + TALÓN (parte del pie) = PANTALÓN.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-008",
-      "pista": "Asiento de plaza y entidad financiera",
+      "enunciado": "Asiento de plaza y entidad financiera",
       "enumeracion": "(5)",
       "respuesta": "BANCO",
       "definiciones": ["Asiento de plaza", "entidad financiera"],
@@ -120,12 +113,11 @@
       "dificultad": "facil",
       "ayuda": "Una sola palabra sirve para sentarse y para guardar plata.",
       "explicacion": "BANCO es un asiento de plaza y también una entidad financiera.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-009",
-      "pista": "Felino o herramienta para cambiar la rueda",
+      "enunciado": "Felino o herramienta para cambiar la rueda",
       "enumeracion": "(4)",
       "respuesta": "GATO",
       "definiciones": ["Felino", "herramienta para cambiar la rueda"],
@@ -135,12 +127,11 @@
       "dificultad": "facil",
       "ayuda": "Pensá en lo que se usa para levantar el auto.",
       "explicacion": "GATO es un felino y también el gato hidráulico para cambiar una rueda.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-010",
-      "pista": "Al principio, ocho sapos observan un animal peludo",
+      "enunciado": "Al principio, ocho sapos observan un animal peludo",
       "enumeracion": "(3)",
       "respuesta": "OSO",
       "definiciones": ["un animal peludo"],
@@ -150,12 +141,11 @@
       "dificultad": "facil",
       "ayuda": "Tomá la primera letra de tres palabras seguidas.",
       "explicacion": "Ocho Sapos Observan: las iniciales forman OSO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-011",
-      "pista": "Dinero descabezado: un envase",
+      "enunciado": "Dinero descabezado: un envase",
       "enumeracion": "(4)",
       "respuesta": "LATA",
       "definiciones": ["un envase"],
@@ -165,12 +155,11 @@
       "dificultad": "facil",
       "ayuda": "Cómo le decimos a la guita en Argentina, sin su primera letra.",
       "explicacion": "PLATA (dinero) sin su primera letra da LATA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-012",
-      "pista": "Se oye como la cacería: hogar",
+      "enunciado": "Se oye como la cacería: hogar",
       "enumeracion": "(4)",
       "respuesta": "CASA",
       "definiciones": ["hogar"],
@@ -180,12 +169,11 @@
       "dificultad": "facil",
       "ayuda": "En el Río de la Plata, la Z y la S suenan igual.",
       "explicacion": "CAZA (la cacería) suena igual que CASA (hogar).",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-013",
-      "pista": "Mi metido en el hogar da una prenda",
+      "enunciado": "Mi metido en el hogar da una prenda",
       "enumeracion": "(6)",
       "respuesta": "CAMISA",
       "definiciones": ["una prenda"],
@@ -195,12 +183,11 @@
       "dificultad": "medio",
       "ayuda": "El hogar es una palabra de cuatro letras. Partila al medio y meté MI.",
       "explicacion": "MI dentro de CASA (el hogar): CA + MI + SA = CAMISA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-014",
-      "pista": "Norte metido en el toro: máquina de taller",
+      "enunciado": "Norte metido en el toro: máquina de taller",
       "enumeracion": "(5)",
       "respuesta": "TORNO",
       "definiciones": ["máquina de taller"],
@@ -210,12 +197,11 @@
       "dificultad": "medio",
       "ayuda": "Los puntos cardinales valen su inicial.",
       "explicacion": "N (norte) dentro de TORO: TOR + N + O = TORNO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-015",
-      "pista": "Ignorante, revuelto, es nacido en este país",
+      "enunciado": "Ignorante, revuelto, es nacido en este país",
       "enumeracion": "(9)",
       "respuesta": "ARGENTINO",
       "definiciones": ["nacido en este país"],
@@ -225,12 +211,11 @@
       "dificultad": "medio",
       "ayuda": "Nueve letras para reordenar. El país es este.",
       "explicacion": "IGNORANTE revuelto da ARGENTINO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-016",
-      "pista": "Monja alborotada da un fiambre",
+      "enunciado": "Monja alborotada da un fiambre",
       "enumeracion": "(5)",
       "respuesta": "JAMÓN",
       "definiciones": ["un fiambre"],
@@ -240,12 +225,11 @@
       "dificultad": "medio",
       "ayuda": "Reordená las letras de la religiosa.",
       "explicacion": "MONJA alborotada da JAMÓN.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-017",
-      "pista": "Helado sin cabeza: corriente de agua",
+      "enunciado": "Helado sin cabeza: corriente de agua",
       "enumeracion": "(3)",
       "respuesta": "RÍO",
       "definiciones": ["corriente de agua"],
@@ -255,12 +239,11 @@
       "dificultad": "medio",
       "ayuda": "No es el postre: es un sinónimo de mucho frío.",
       "explicacion": "FRÍO (helado) sin su primera letra da RÍO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-018",
-      "pista": "Roedor de vuelta: sujetar con soga",
+      "enunciado": "Roedor de vuelta: sujetar con soga",
       "enumeracion": "(4)",
       "respuesta": "ATAR",
       "definiciones": ["sujetar con soga"],
@@ -270,12 +253,11 @@
       "dificultad": "medio",
       "ayuda": "Pensá en un roedor de cuatro letras y leelo al revés.",
       "explicacion": "RATA (roedor) al revés es ATAR.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-019",
-      "pista": "Fruta tropical o un peso, en lunfardo",
+      "enunciado": "Fruta tropical o un peso, en lunfardo",
       "enumeracion": "(5)",
       "respuesta": "MANGO",
       "definiciones": ["Fruta tropical", "un peso, en lunfardo"],
@@ -285,12 +267,11 @@
       "dificultad": "medio",
       "ayuda": "«No tengo ni un ...».",
       "explicacion": "MANGO es una fruta tropical y, en lunfardo, un peso.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-020",
-      "pista": "Elegir en las urnas se oye como hacer picar la pelota",
+      "enunciado": "Elegir en las urnas se oye como hacer picar la pelota",
       "enumeracion": "(5)",
       "respuesta": "VOTAR",
       "definiciones": ["Elegir en las urnas"],
@@ -300,12 +281,11 @@
       "dificultad": "medio",
       "ayuda": "La B y la V suenan igual.",
       "explicacion": "VOTAR (elegir en las urnas) suena igual que BOTAR (hacer picar la pelota).",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-021",
-      "pista": "Colas de álbum, casa y amor dan agua salada",
+      "enunciado": "Colas de álbum, casa y amor dan agua salada",
       "enumeracion": "(3)",
       "respuesta": "MAR",
       "definiciones": ["agua salada"],
@@ -315,12 +295,11 @@
       "dificultad": "medio",
       "ayuda": "Tomá la última letra de cada sustantivo. La «y» solo une.",
       "explicacion": "álbuM, casA, amoR: las últimas letras forman MAR.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-022",
-      "pista": "Cabello con otra cabeza cubre a la novia",
+      "enunciado": "Cabello con otra cabeza cubre a la novia",
       "enumeracion": "(4)",
       "respuesta": "VELO",
       "definiciones": ["cubre a la novia"],
@@ -330,12 +309,11 @@
       "dificultad": "medio",
       "ayuda": "Un sinónimo corto de cabello, con otra primera letra.",
       "explicacion": "PELO (cabello) con otra primera letra da VELO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-023",
-      "pista": "Flor con corriente de agua: ciudad santafesina",
+      "enunciado": "Flor con corriente de agua: ciudad santafesina",
       "enumeracion": "(7)",
       "respuesta": "ROSARIO",
       "definiciones": ["ciudad santafesina"],
@@ -345,12 +323,11 @@
       "dificultad": "medio",
       "ayuda": "Una flor con espinas, seguida de lo que corre por un cauce.",
       "explicacion": "ROSA (flor) + RÍO (corriente de agua) = ROSARIO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-024",
-      "pista": "Astro con años vividos da falta de compañía",
+      "enunciado": "Astro con años vividos da falta de compañía",
       "enumeracion": "(7)",
       "respuesta": "SOLEDAD",
       "definiciones": ["falta de compañía"],
@@ -360,12 +337,11 @@
       "dificultad": "medio",
       "ayuda": "El astro del día, seguido de lo que cumplís cada año.",
       "explicacion": "SOL (astro) + EDAD (años vividos) = SOLEDAD.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-025",
-      "pista": "Esponja enloquecida: nacido en Tokio",
+      "enunciado": "Esponja enloquecida: nacido en Tokio",
       "enumeracion": "(7)",
       "respuesta": "JAPONÉS",
       "definiciones": ["nacido en Tokio"],
@@ -375,12 +351,11 @@
       "dificultad": "medio",
       "ayuda": "Siete letras para reordenar. Pensá en un gentilicio.",
       "explicacion": "ESPONJA enloquecida da JAPONÉS.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-026",
-      "pista": "Calcio y hierro para el desayuno porteño",
+      "enunciado": "Calcio y hierro para el desayuno porteño",
       "enumeracion": "(4)",
       "respuesta": "CAFÉ",
       "definiciones": ["el desayuno porteño"],
@@ -390,12 +365,11 @@
       "dificultad": "avanzado",
       "ayuda": "Pensá en la tabla periódica.",
       "explicacion": "Ca (calcio) + Fe (hierro) = CAFÉ.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-027",
-      "pista": "Manco perturbado abraza a uno: senda",
+      "enunciado": "Manco perturbado abraza a uno: senda",
       "enumeracion": "(6)",
       "respuesta": "CAMINO",
       "definiciones": ["senda"],
@@ -405,12 +379,11 @@
       "dificultad": "avanzado",
       "ayuda": "Uno en números romanos va dentro de un anagrama de MANCO.",
       "explicacion": "MANCO desordenado (CAMNO) abraza a I (uno, en romano): CAM + I + NO = CAMINO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-028",
-      "pista": "Toro sin cola con hierba fresca: temporal",
+      "enunciado": "Toro sin cola con hierba fresca: temporal",
       "enumeracion": "(8)",
       "respuesta": "TORMENTA",
       "definiciones": ["temporal"],
@@ -420,12 +393,11 @@
       "dificultad": "avanzado",
       "ayuda": "Al animal sacale la última letra y pegale una hierba de caramelo.",
       "explicacion": "TOR(O) sin la última letra + MENTA (hierba fresca) = TORMENTA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-029",
-      "pista": "Bocas desordenadas con el Este: la de la bruja",
+      "enunciado": "Bocas desordenadas con el Este: la de la bruja",
       "enumeracion": "(6)",
       "respuesta": "ESCOBA",
       "definiciones": ["la de la bruja"],
@@ -435,12 +407,11 @@
       "dificultad": "avanzado",
       "ayuda": "El Este vale E. Sumala a BOCAS y reordená todo.",
       "explicacion": "BOCAS + E (Este), desordenadas, dan ESCOBA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-030",
-      "pista": "Música cubana dentro de la fruta: individuo",
+      "enunciado": "Música cubana dentro de la fruta: individuo",
       "enumeracion": "(7)",
       "respuesta": "PERSONA",
       "definiciones": ["individuo"],
@@ -450,12 +421,11 @@
       "dificultad": "avanzado",
       "ayuda": "La música cubana tiene tres letras. La fruta, cuatro.",
       "explicacion": "SON (música cubana) dentro de PERA (la fruta): PER + SON + A = PERSONA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-031",
-      "pista": "Hoja delgada que vuelve: bicho",
+      "enunciado": "Hoja delgada que vuelve: bicho",
       "enumeracion": "(6)",
       "respuesta": "ANIMAL",
       "definiciones": ["bicho"],
@@ -465,12 +435,11 @@
       "dificultad": "avanzado",
       "ayuda": "Una hoja delgada de metal, de seis letras, leída al revés.",
       "explicacion": "LÁMINA (hoja delgada) al revés es ANIMAL.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-032",
-      "pista": "Can sin corazón, sin embargo",
+      "enunciado": "Can sin corazón, sin embargo",
       "enumeracion": "(4)",
       "respuesta": "PERO",
       "definiciones": ["sin embargo"],
@@ -480,12 +449,11 @@
       "dificultad": "avanzado",
       "ayuda": "Can es un perro. Sacale la letra del medio.",
       "explicacion": "PERRO (can) sin su letra central da PERO, que significa «sin embargo».",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-033",
-      "pista": "Árbol que se oye como encuentra",
+      "enunciado": "Árbol que se oye como encuentra",
       "enumeracion": "(4)",
       "respuesta": "HAYA",
       "definiciones": ["Árbol"],
@@ -495,12 +463,11 @@
       "dificultad": "avanzado",
       "ayuda": "La H es muda, y la LL y la Y suenan igual.",
       "explicacion": "HAYA (un árbol) suena igual que HALLA (encuentra).",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-034",
-      "pista": "Encima, lo que guarda una carta",
+      "enunciado": "Encima, lo que guarda una carta",
       "enumeracion": "(5)",
       "respuesta": "SOBRE",
       "definiciones": ["Encima", "lo que guarda una carta"],
@@ -510,8 +477,7 @@
       "dificultad": "avanzado",
       "ayuda": "Una preposición que también es papelería.",
       "explicacion": "SOBRE significa «encima» y también es el envoltorio de una carta.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     }
   ]
 }

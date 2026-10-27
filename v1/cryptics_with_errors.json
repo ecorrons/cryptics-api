@@ -1,11 +1,11 @@
 {
-  "version": "test-2026-10-19.1",
-  "generado": "2026-10-19",
+  "version": "test-2026-10-26.1",
+  "generado": "2026-10-26",
   "fuente": "Cátedra de Ruby on Rails (catálogo con errores a propósito)",
   "cripticos": [
     {
       "id": "cr-101",
-      "pista": "Amor loco da una fruta del bosque",
+      "enunciado": "Amor loco da una fruta del bosque",
       "enumeracion": "(4)",
       "respuesta": "MORA",
       "definiciones": ["una fruta del bosque"],
@@ -15,12 +15,11 @@
       "dificultad": "facil",
       "ayuda": "Reordená las letras de la primera palabra.",
       "explicacion": "AMOR desordenado da MORA.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-102",
-      "pista": "Asiento de plaza y entidad financiera",
+      "enunciado": "Asiento de plaza y entidad financiera",
       "enumeracion": "(6)",
       "respuesta": "BANCO",
       "definiciones": ["Asiento de plaza", "entidad financiera"],
@@ -30,12 +29,11 @@
       "dificultad": "facil",
       "ayuda": "Una sola palabra sirve para sentarse y para guardar plata.",
       "explicacion": "BANCO es un asiento de plaza y también una entidad financiera.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-103",
-      "pista": "Monja alborotada da un fiambre",
+      "enunciado": "Monja alborotada da un fiambre",
       "enumeracion": "(5)",
       "respuesta": "JAMÁS",
       "definiciones": ["un fiambre"],
@@ -45,12 +43,11 @@
       "dificultad": "medio",
       "ayuda": "Reordená las letras de la religiosa.",
       "explicacion": "MONJA alborotada da JAMÁS.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-104",
-      "pista": "Felino o herramienta para cambiar la rueda",
+      "enunciado": "Felino o herramienta para cambiar la rueda",
       "enumeracion": "(4)",
       "definiciones": ["Felino", "herramienta para cambiar la rueda"],
       "indicadores": [],
@@ -59,12 +56,11 @@
       "dificultad": "facil",
       "ayuda": "Pensá en lo que se usa para levantar el auto.",
       "explicacion": "GATO es un felino y también el gato hidráulico para cambiar una rueda.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-105",
-      "pista": "Rama de vuelta para querer",
+      "enunciado": "Rama de vuelta para querer",
       "enumeracion": "(4)",
       "respuesta": "AMAR",
       "definiciones": ["querer"],
@@ -74,12 +70,11 @@
       "dificultad": "experto",
       "ayuda": "Leé la primera palabra de atrás para adelante.",
       "explicacion": "RAMA al revés es AMAR.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-101",
-      "pista": "Pato rosado esconde un animal de las corridas",
+      "enunciado": "Pato rosado esconde un animal de las corridas",
       "enumeracion": "(4)",
       "respuesta": "TORO",
       "definiciones": ["un animal de las corridas"],
@@ -89,12 +84,11 @@
       "dificultad": "facil",
       "ayuda": "La respuesta está escrita, letra por letra, entre las dos primeras palabras.",
       "explicacion": "pa[TO RO]sado esconde TORO.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     },
     {
       "id": "cr-107",
-      "pista": "Tour con el astro rey da una flor",
+      "enunciado": "Tour con el astro rey da una flor",
       "enumeracion": "(7)",
       "respuesta": "GIRASOL",
       "definiciones": ["una planta"],
@@ -104,8 +98,7 @@
       "dificultad": "facil",
       "ayuda": "Un tour de una banda, seguido del astro que nos ilumina.",
       "explicacion": "GIRA + SOL = GIRASOL.",
-      "autor": "Cátedra",
-      "activo": true
+      "autor": "Cátedra"
     }
   ]
 }
